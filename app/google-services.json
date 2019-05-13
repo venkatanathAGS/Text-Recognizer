@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "356116492016",
+    "firebase_url": "https://textrecognizer-8d540.firebaseio.com",
+    "project_id": "textrecognizer-8d540",
+    "storage_bucket": "textrecognizer-8d540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356116492016:android:78a25053dfa2d0e1",
+        "android_client_info": {
+          "package_name": "com.example.venkatanathags.textrecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356116492016-if22ur536tk4u9e7a90ctjjttrmvuepv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venkatanathags.textrecognizer",
+            "certificate_hash": "7c45a1917ad4bfb4af0287fb37dbad17b0ec22ef"
+          }
+        },
+        {
+          "client_id": "356116492016-j3nmfjglb6lhh89e6s6ttttr4od3n5k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo_Bpqk-AFcpyV3G3b5daQo9vHaSygIAE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356116492016-j3nmfjglb6lhh89e6s6ttttr4od3n5k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
